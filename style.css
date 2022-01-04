@@ -1,0 +1,30 @@
+body{
+    font-family: 'Shizuru', cursive;
+    background: linear-gradient(burlywood 0%, beige 100%);
+    color:brown;
+}
+.header_div{
+    font-weight:bold;
+}
+.header_div p{
+    letter-spacing: 3px;
+    font-weight:bolder;
+    font-family:cursive;
+}
+.main_div button{
+    letter-spacing:5px;
+    font-family:arial;
+    margin-top:30px;
+    width:150px;
+    font-weight: bolder;
+}
+.copyright_footer{
+    position:fixed;
+    bottom: 0;
+    width:100%;
+    text-shadow: 5px 5px 5px grey;
+    line-height: 3;
+    text-align:center;
+    background-color: white;
+    font-weight: bolder;
+}
